@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8d081ef4-1181-47e9-928f-d37e1b8fd12a" name="github" url="https://github.com/vlad2626/Project1WebDeb.git">
+        <fileTransfer accessType="SFTP" host="git@github.com:vlad2626/Project1WebDeb.git" port="22" sshConfigId="1938cf97-784b-479e-b88e-6e211b54cea1" sshConfig="vlad2626@git@github.com:vlad2626/Project1WebDeb.git:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

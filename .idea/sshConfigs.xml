@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="git@github.com:vlad2626/Project1WebDeb.git" id="1938cf97-784b-479e-b88e-6e211b54cea1" port="22" nameFormat="DESCRIPTIVE" username="vlad2626" />
+    </configs>
+  </component>
+</project>
